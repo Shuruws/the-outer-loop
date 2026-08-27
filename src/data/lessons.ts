@@ -14,6 +14,9 @@ export const crossLessons: CrossLesson[] = [
       "geoffrey-huntley",
       "simon-willison",
       "mitchell-hashimoto",
+      "cristina-poncela",
+      "jason-liu",
+      "peter-steinberger",
     ],
   },
   {
@@ -22,7 +25,15 @@ export const crossLessons: CrossLesson[] = [
     summary:
       "Breadth without a verification gate multiplies slop. Make one agent own a problem end to end, then scale.",
     body: "Lauren's factory only works because pstack makes a single agent rigorous first. Boris one-shots after the plan is good, not before. Dex keeps agents small and focused. The people shipping 200–1,000 PRs a month are not running twenty uncorrelated chat windows. They have a trust gradient: evidence, then autonomy, then parallelism.",
-    heldBy: ["lauren-tan", "boris-cherny", "dex-horthy", "jesse-vincent", "mitchell-hashimoto"],
+    heldBy: [
+      "lauren-tan",
+      "boris-cherny",
+      "dex-horthy",
+      "jesse-vincent",
+      "mitchell-hashimoto",
+      "zach-lloyd",
+      "eno-reyes",
+    ],
   },
   {
     slug: "intent-is-the-bottleneck",
@@ -37,6 +48,9 @@ export const crossLessons: CrossLesson[] = [
       "jesse-vincent",
       "hamel-husain",
       "daniel-meppiel",
+      "zach-lloyd",
+      "jason-liu",
+      "eno-reyes",
     ],
   },
   {
@@ -54,6 +68,9 @@ export const crossLessons: CrossLesson[] = [
       "dex-horthy",
       "mario-zechner",
       "dax-raad",
+      "jeremy-howard",
+      "jason-liu",
+      "peter-steinberger",
     ],
   },
   {
@@ -62,7 +79,14 @@ export const crossLessons: CrossLesson[] = [
     summary:
       "Claude Code and Amp both landed here: glob and grep, driven by the model, beat stale vector indexes for code.",
     body: "Boris Cherny has said it repeatedly: they tried RAG, local vector DBs, recursive indexing. Agentic search won. Thorsten Ball's 'emperor has no clothes' post made the same point with three tools. Paul Gauthier uses tree-sitter maps instead of embeddings. Retrieval still has a place for huge stable corpora. For a living repo, the model should go look.",
-    heldBy: ["boris-cherny", "thorsten-ball", "paul-gauthier", "thariq-shihipar"],
+    heldBy: [
+      "boris-cherny",
+      "thorsten-ball",
+      "paul-gauthier",
+      "thariq-shihipar",
+      "peter-steinberger",
+      "xingyao-wang",
+    ],
   },
   {
     slug: "outer-loop",
@@ -78,6 +102,9 @@ export const crossLessons: CrossLesson[] = [
       "armin-ronacher",
       "mitchell-hashimoto",
       "scott-wu",
+      "zach-lloyd",
+      "jason-liu",
+      "eno-reyes",
     ],
   },
   {
@@ -93,6 +120,10 @@ export const crossLessons: CrossLesson[] = [
       "andrej-karpathy",
       "thorsten-ball",
       "shreya-shankar",
+      "chip-huyen",
+      "cristina-poncela",
+      "jeremy-howard",
+      "eugene-yan",
     ],
   },
 ];
