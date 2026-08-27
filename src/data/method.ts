@@ -89,6 +89,10 @@ export const method = {
     "Javier Moreno — Under the River (Shopify); Aquifer session/harness/sandbox; profiles not platforms",
     "Allen Chen — Pinecone with Tess Rosania; wrap Codex/Claude Code; laptop agents do not compound",
     "Aitor Alonso — four-layer stack: CLAUDE.md, Superpowers, team skills, MCPs",
+    "Nicholas Carlini — Building a C compiler with a team of parallel Claudes; tests-as-communication; git locks",
+    "Justin Young — Effective harnesses for long-running agents; initializer + coding agent; feature_list.json",
+    "Prithvi Rajasekaran — Harness design for long-running apps; generator/evaluator; taste as rubric",
+    "Vaibhav Gupta — Fighting slop with slop; architecture.md; transcript evals; BAML",
   ],
   watchlist: [
     "Jason Quense / Rahul Sengottuvelu — Ramp Inspect cofounders with Zach; still thinner solo writing than Zach's dump",
@@ -104,6 +108,9 @@ export const method = {
     "Burke Libbey — co-author of Under the River with Javier; thinner solo dump than Javier's substrate post",
     "Tess Rosania — co-author of Pinecone with Allen; thinner solo coding-collab dump",
     "Gabe Cemaj — co-author of Scaling Managed Agents with Lance; Lance already covers the method",
+    "Sid Bidasaria — Claude Code founding engineer; co-author with Thariq on dynamic workflows; talk exists, still thinner solo dump than Boris/Cat/Thariq",
+    "David Hershey / Pedram Navid — acknowledged on Justin's harness post; no solo method dump retrieved",
+    "Josef Bacik / Edwin Chen — acknowledged on Carlini's compiler post; not a personal collab dump",
   ],
   limits: [
     "X and LinkedIn rate-limit full history. Quotes are taken from public posts, talks, and repos we could retrieve.",

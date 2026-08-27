@@ -33,6 +33,8 @@ export const crossLessons: CrossLesson[] = [
       "kent-c-dodds",
       "javier-moreno",
       "aitor-alonso",
+      "justin-young",
+      "vaibhav-gupta",
     ],
   },
   {
@@ -63,6 +65,9 @@ export const crossLessons: CrossLesson[] = [
       "solomon-hykes",
       "angie-jones",
       "allen-chen",
+      "nicholas-carlini",
+      "justin-young",
+      "prithvi-rajasekaran",
     ],
   },
   {
@@ -97,6 +102,9 @@ export const crossLessons: CrossLesson[] = [
       "angie-jones",
       "kent-c-dodds",
       "aitor-alonso",
+      "justin-young",
+      "vaibhav-gupta",
+      "prithvi-rajasekaran",
     ],
   },
   {
@@ -132,6 +140,8 @@ export const crossLessons: CrossLesson[] = [
       "angie-jones",
       "javier-moreno",
       "allen-chen",
+      "nicholas-carlini",
+      "justin-young",
     ],
   },
   {
@@ -151,6 +161,7 @@ export const crossLessons: CrossLesson[] = [
       "nicolay-gerold",
       "kyle-mistele",
       "nick-nisi",
+      "nicholas-carlini",
     ],
   },
   {
@@ -190,6 +201,10 @@ export const crossLessons: CrossLesson[] = [
       "angie-jones",
       "javier-moreno",
       "allen-chen",
+      "nicholas-carlini",
+      "justin-young",
+      "prithvi-rajasekaran",
+      "vaibhav-gupta",
     ],
   },
   {
@@ -218,6 +233,8 @@ export const crossLessons: CrossLesson[] = [
       "matt-pocock",
       "erik-schluntz",
       "kent-c-dodds",
+      "vaibhav-gupta",
+      "prithvi-rajasekaran",
     ],
   },
 ];
