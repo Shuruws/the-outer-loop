@@ -26,6 +26,7 @@ export const schools: School[] = [
       "eugene-yan",
       "kieran-klaassen",
       "zach-davis",
+      "claire-vo",
     ],
   },
   {
@@ -50,6 +51,7 @@ export const schools: School[] = [
       "peter-steinberger",
       "jason-liu",
       "kieran-klaassen",
+      "saoud-rizwan",
     ],
   },
   {
@@ -74,6 +76,8 @@ export const schools: School[] = [
       "zach-lloyd",
       "theo-luan",
       "zach-davis",
+      "saoud-rizwan",
+      "claire-vo",
     ],
   },
   {
@@ -104,6 +108,9 @@ export const schools: School[] = [
       "eno-reyes",
       "peter-steinberger",
       "john-yang",
+      "walden-yan",
+      "saoud-rizwan",
+      "lance-martin",
     ],
   },
   {
@@ -134,6 +141,9 @@ export const schools: School[] = [
       "kieran-klaassen",
       "theo-luan",
       "zach-davis",
+      "walden-yan",
+      "lance-martin",
+      "claire-vo",
     ],
   },
   {
@@ -164,6 +174,8 @@ export const schools: School[] = [
       "eugene-yan",
       "john-yang",
       "theo-luan",
+      "walden-yan",
+      "lance-martin",
     ],
   },
 ];
