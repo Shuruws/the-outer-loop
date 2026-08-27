@@ -30,6 +30,9 @@ export const schools: School[] = [
       "ryan-carson",
       "nicolay-gerold",
       "yana-welinder",
+      "kyle-mistele",
+      "graham-neubig",
+      "ryan-cooke",
     ],
   },
   {
@@ -123,6 +126,8 @@ export const schools: School[] = [
       "beyang-liu",
       "nicolay-gerold",
       "lewis-metcalf",
+      "graham-neubig",
+      "kilian-lieret",
     ],
   },
   {
@@ -165,6 +170,10 @@ export const schools: School[] = [
       "lewis-metcalf",
       "luke-alvoeiro",
       "yana-welinder",
+      "kyle-mistele",
+      "graham-neubig",
+      "kilian-lieret",
+      "ryan-cooke",
     ],
   },
   {
@@ -203,6 +212,9 @@ export const schools: School[] = [
       "quinn-slack",
       "lewis-metcalf",
       "luke-alvoeiro",
+      "kyle-mistele",
+      "kilian-lieret",
+      "ryan-cooke",
     ],
   },
 ];
