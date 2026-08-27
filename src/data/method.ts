@@ -96,6 +96,9 @@ export const method = {
     "Siddharth Mishra-Sharma — Long-running Claude for scientific computing; CLAUDE.md + CHANGELOG.md; CLASS oracle; tmux/SLURM",
     "Malte Ubl — bash + SQL file-system agents; delete 80% of tools; bash-tool",
     "John Lindquist — How I AI; claude-hooks; mdflow; Stop-hook verify loop",
+    "Felix Rieseberg — How I AI / Lenny's; anti-to-do list; Cowork as VM; claude-desktop-buddy; never-reads-code output gate",
+    "CJ Hess — How I AI; Flowy JSON-to-UI; Skill.md schema; kevin/carl model-vs-model review",
+    "David Cramer — eight-week agent X thread; getsentry/warden; Insecure Agents: It's the Harness, Not the Model",
   ],
   watchlist: [
     "Jason Quense / Rahul Sengottuvelu — Ramp Inspect cofounders with Zach; still thinner solo writing than Zach's dump",
@@ -117,6 +120,9 @@ export const method = {
     "Andrew Qu — co-author of bash-tool and Vercel plugin with Malte / Lindquist; thinner solo dump",
     "Melkey Moksyakov — co-author of Vercel coding-agent plugin; product changelog not a personal method",
     "Eric Kauderer-Abrams — peer review on Siddharth's science post; not a collab dump",
+    "Dan Zakon / Arman Hezarkhani / Alex Lieberman — MetaHarness with CJ Hess; context-as-markdown is real, solo dumps still thinner than Hess's Flowy episode",
+    "Hilary Gridley — public life OS / How I AI; not coding-collab craft",
+    "Steven Hao — Cognition CTO; product voice, thinner personal harness dump than Walden or Scott",
   ],
   limits: [
     "X and LinkedIn rate-limit full history. Quotes are taken from public posts, talks, and repos we could retrieve.",

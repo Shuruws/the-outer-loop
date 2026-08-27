@@ -37,6 +37,8 @@ export const crossLessons: CrossLesson[] = [
       "vaibhav-gupta",
       "siddharth-mishra-sharma",
       "john-lindquist",
+      "cj-hess",
+      "david-cramer",
     ],
   },
   {
@@ -71,6 +73,8 @@ export const crossLessons: CrossLesson[] = [
       "justin-young",
       "prithvi-rajasekaran",
       "siddharth-mishra-sharma",
+      "felix-rieseberg",
+      "david-cramer",
     ],
   },
   {
@@ -110,6 +114,8 @@ export const crossLessons: CrossLesson[] = [
       "prithvi-rajasekaran",
       "siddharth-mishra-sharma",
       "john-lindquist",
+      "felix-rieseberg",
+      "cj-hess",
     ],
   },
   {
@@ -150,6 +156,7 @@ export const crossLessons: CrossLesson[] = [
       "siddharth-mishra-sharma",
       "malte-ubl",
       "john-lindquist",
+      "cj-hess",
     ],
   },
   {
@@ -217,6 +224,9 @@ export const crossLessons: CrossLesson[] = [
       "siddharth-mishra-sharma",
       "malte-ubl",
       "john-lindquist",
+      "felix-rieseberg",
+      "cj-hess",
+      "david-cramer",
     ],
   },
   {
@@ -249,6 +259,8 @@ export const crossLessons: CrossLesson[] = [
       "prithvi-rajasekaran",
       "malte-ubl",
       "john-lindquist",
+      "felix-rieseberg",
+      "david-cramer",
     ],
   },
 ];
