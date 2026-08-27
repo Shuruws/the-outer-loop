@@ -53,6 +53,8 @@ export const schools: School[] = [
       "jason-liu",
       "kieran-klaassen",
       "saoud-rizwan",
+      "beyang-liu",
+      "quinn-slack",
     ],
   },
   {
@@ -114,6 +116,7 @@ export const schools: School[] = [
       "lance-martin",
       "cole-murray",
       "zach-bruggeman",
+      "beyang-liu",
     ],
   },
   {
@@ -150,6 +153,8 @@ export const schools: School[] = [
       "ryan-carson",
       "cole-murray",
       "zach-bruggeman",
+      "beyang-liu",
+      "quinn-slack",
     ],
   },
   {
@@ -185,6 +190,7 @@ export const schools: School[] = [
       "ryan-carson",
       "cole-murray",
       "zach-bruggeman",
+      "quinn-slack",
     ],
   },
 ];
