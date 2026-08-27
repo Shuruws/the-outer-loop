@@ -99,6 +99,9 @@ export const method = {
     "Felix Rieseberg — How I AI / Lenny's; anti-to-do list; Cowork as VM; claude-desktop-buddy; never-reads-code output gate",
     "CJ Hess — How I AI; Flowy JSON-to-UI; Skill.md schema; kevin/carl model-vs-model review",
     "David Cramer — eight-week agent X thread; getsentry/warden; Insecure Agents: It's the Harness, Not the Model",
+    "Brian Scanlan — How we use Claude Code today at Intercom; How I AI; Create PR hook; self-editing flaky-spec skill; SessionEnd telemetry",
+    "Eddie Kim — How I AI / Lenny's; trash-can PRs; eval-first Claude; perma-Zoom; Workers + AI SDK",
+    "Alex Finn — How I AI software factory; build/review loops; SHA-bound rocket emoji; local model as sensor",
   ],
   watchlist: [
     "Jason Quense / Rahul Sengottuvelu — Ramp Inspect cofounders with Zach; still thinner solo writing than Zach's dump",
@@ -123,6 +126,9 @@ export const method = {
     "Dan Zakon / Arman Hezarkhani / Alex Lieberman — MetaHarness with CJ Hess; context-as-markdown is real, solo dumps still thinner than Hess's Flowy episode",
     "Hilary Gridley — public life OS / How I AI; not coding-collab craft",
     "Steven Hao — Cognition CTO; product voice, thinner personal harness dump than Walden or Scott",
+    "Grace Clarke — How I AI Claude for normal people / business automation; not IC coding-collab craft",
+    "Nick Baumann — OpenAI ChatGPT voice/browser workflows; not a coding-agent harness dump",
+    "Katie Cavalcant — Gusto designer on Eddie's five-person team; no solo method dump retrieved",
   ],
   limits: [
     "X and LinkedIn rate-limit full history. Quotes are taken from public posts, talks, and repos we could retrieve.",
