@@ -4,6 +4,7 @@ import { gemEngineers } from "./gems";
 import { issue02Engineers } from "./issue02";
 import { issue03Engineers } from "./issue03";
 import { issue04Engineers } from "./issue04";
+import { issue05Engineers } from "./issue05";
 import { labEngineers } from "./labs";
 
 export const engineers: Engineer[] = [
@@ -13,6 +14,7 @@ export const engineers: Engineer[] = [
   ...issue02Engineers,
   ...issue03Engineers,
   ...issue04Engineers,
+  ...issue05Engineers,
 ];
 
 export function getEngineer(slug: string) {

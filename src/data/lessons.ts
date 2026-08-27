@@ -17,6 +17,8 @@ export const crossLessons: CrossLesson[] = [
       "cristina-poncela",
       "jason-liu",
       "peter-steinberger",
+      "kieran-klaassen",
+      "zach-davis",
     ],
   },
   {
@@ -33,6 +35,7 @@ export const crossLessons: CrossLesson[] = [
       "mitchell-hashimoto",
       "zach-lloyd",
       "eno-reyes",
+      "kieran-klaassen",
     ],
   },
   {
@@ -51,6 +54,9 @@ export const crossLessons: CrossLesson[] = [
       "zach-lloyd",
       "jason-liu",
       "eno-reyes",
+      "theo-luan",
+      "zach-davis",
+      "kieran-klaassen",
     ],
   },
   {
@@ -71,6 +77,8 @@ export const crossLessons: CrossLesson[] = [
       "jeremy-howard",
       "jason-liu",
       "peter-steinberger",
+      "theo-luan",
+      "kieran-klaassen",
     ],
   },
   {
@@ -86,6 +94,7 @@ export const crossLessons: CrossLesson[] = [
       "thariq-shihipar",
       "peter-steinberger",
       "xingyao-wang",
+      "john-yang",
     ],
   },
   {
@@ -105,6 +114,8 @@ export const crossLessons: CrossLesson[] = [
       "zach-lloyd",
       "jason-liu",
       "eno-reyes",
+      "kieran-klaassen",
+      "zach-davis",
     ],
   },
   {
@@ -124,6 +135,7 @@ export const crossLessons: CrossLesson[] = [
       "cristina-poncela",
       "jeremy-howard",
       "eugene-yan",
+      "john-yang",
     ],
   },
 ];
