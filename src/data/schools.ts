@@ -1,0 +1,125 @@
+import type { School } from "./types";
+
+export const schools: School[] = [
+  {
+    slug: "encode-judgment",
+    name: "Encode judgment",
+    thesis:
+      "Agents forget everything. The job is to turn your taste, failure modes, and review standards into skills the agent can reload every session.",
+    body: [
+      "Lauren Tan's pstack is the clearest public artifact of this school. The agent is treated as a capable new hire in a permanent state of amnesia. You do not hope it remembers last Tuesday. You write playbooks, principles, and verification gates that reconstruct your engineering culture on every run.",
+      "Jesse Vincent's Superpowers and Hamel Husain's evals-skills are the same move from different rooms: extract the process that already works for humans, then make the agent follow it without being asked. The skill file is not a prompt trick. It is institutional memory.",
+    ],
+    contrapoint:
+      "Over-encoded playbooks can become ceremony. If the skill is longer than the task, the agent will follow the ritual and miss the work.",
+    engineerSlugs: [
+      "lauren-tan",
+      "jesse-vincent",
+      "hamel-husain",
+      "addy-osmani",
+      "harper-reed",
+    ],
+  },
+  {
+    slug: "plan-then-oneshot",
+    name: "Plan, then one-shot",
+    thesis:
+      "Human judgment belongs in the plan. Once the plan is good, a frontier model should implement it in one pass. Parallelize the sessions, not the thinking.",
+    body: [
+      "Boris Cherny's public workflow is the canonical version: five local Claude sessions, plan mode first, then let the model one-shot the implementation. Cat Wu and Thariq Shihipar extend that into the org: Claude Tag lands a majority of product PRs because the team invested in tests, owners, and auto-mode safety instead of babysitting every keystroke.",
+      "The hidden assumption is a strong verification surface. Without tests, CI, and code owners, one-shotting is just faster slop.",
+    ],
+    contrapoint:
+      "Armin Ronacher's caution: longer unsupervised runs currently amplify defensive, locally-reasoned code. Planning does not automatically produce invariants.",
+    engineerSlugs: [
+      "boris-cherny",
+      "cat-wu",
+      "thariq-shihipar",
+      "harper-reed",
+      "addy-osmani",
+    ],
+  },
+  {
+    slug: "spec-is-the-code",
+    name: "Spec is the new code",
+    thesis:
+      "Code is 10–20% of the value. The scarce artifact is a precise, testable specification of intent that both humans and models can execute against.",
+    body: [
+      "Sean Grove made this argument at AI Engineer: vibe coding feels good because it is communication-first, but the durable professional artifact should be the spec. Harper Reed operationalized it as three discrete loops — hone a spec, plan the plan, execute one step at a time. Addy Osmani's 2026 playbook is the same shape inside Google: fifteen-minute waterfall, then small diffs, then a second model as reviewer.",
+      "This school is the antidote to 'just ask the agent.' Ambiguity that a senior engineer would paper over becomes a literal instruction to a model.",
+    ],
+    contrapoint:
+      "Specs rot. If the spec is not executable — tests, screenshots, evals — it becomes another unread markdown file.",
+    engineerSlugs: [
+      "sean-grove",
+      "harper-reed",
+      "addy-osmani",
+      "jesse-vincent",
+      "tobi-lutke",
+    ],
+  },
+  {
+    slug: "own-the-context",
+    name: "Own the context window",
+    thesis:
+      "The model is a stateless function. Reliability comes from what you put in the window, not from a framework's hidden message format.",
+    body: [
+      "Dex Horthy's 12-factor agents is the engineering manual for this school. Own your prompts, own your context window, treat tools as structured outputs, keep agents small and focused, compact errors instead of dumping traces. Geoffrey Huntley's Ralph loop is the extreme version: throw the context away every iteration and persist state on disk and in git.",
+      "Simon Willison, Guillermo Rauch, and Tobi Lütke converge here from the product side: the filesystem is the memory. AGENTS.md, research folders, try directories. No knowledge graph required.",
+    ],
+    contrapoint:
+      "Context engineering can become a new form of premature abstraction. A bash loop and a prompt file beat a custom Thread serializer until they don't.",
+    engineerSlugs: [
+      "dex-horthy",
+      "geoffrey-huntley",
+      "simon-willison",
+      "guillermo-rauch",
+      "tobi-lutke",
+      "steve-yegge",
+    ],
+  },
+  {
+    slug: "harness-loops",
+    name: "Harness loops",
+    thesis:
+      "The interesting loop is outside the agent. A harness decides whether work is actually finished, resets context, and keeps going after the model says done.",
+    body: [
+      "Geoffrey Huntley named it: Ralph is a bash loop. Steve Yegge built Beads and Gas Town so work can survive session death. Lauren Tan's cloud agents and Grok Bot routines run while she sleeps. Boris Cherny: 'I don't prompt Claude anymore. I have loops running that prompt Claude.'",
+      "Armin Ronacher is the necessary skeptic inside the school. Loops work for ports, perf search, and research. They currently degrade lasting code by amplifying local defenses. The question is not whether we will loop. It is how judgment stays in the loop.",
+    ],
+    contrapoint:
+      "If the harness judges 'done,' the human becomes a messenger. Taste has no gradient unless you put it in the stop condition.",
+    engineerSlugs: [
+      "geoffrey-huntley",
+      "steve-yegge",
+      "lauren-tan",
+      "boris-cherny",
+      "armin-ronacher",
+      "thorsten-ball",
+    ],
+  },
+  {
+    slug: "verify-or-do-not-ship",
+    name: "Verify or do not ship",
+    thesis:
+      "A passing build is not evidence. Trust is the bottleneck on automation. Until an agent can prove the change, you cannot put it in a factory.",
+    body: [
+      "This is the shared spine across otherwise different camps. pstack matches verification to the change: a CLI change runs the command, a UI change walks the flow, a perf change compares traces. Paul Gauthier's Aider made git commits and test retries the product. Hamel Husain's whole career in this era is: look at the errors, then write evals from the failures, not from generic metrics.",
+      "Thorsten Ball showed you can build a coding agent with three tools and no RAG. The implied lesson is the same: give the model a way to look, run, and check, then get out of the way of ceremony.",
+    ],
+    contrapoint:
+      "LLM-as-judge can launder slop. Verification that is only another model is a loop eating its own tail.",
+    engineerSlugs: [
+      "lauren-tan",
+      "paul-gauthier",
+      "hamel-husain",
+      "thorsten-ball",
+      "simon-willison",
+      "addy-osmani",
+    ],
+  },
+];
+
+export function getSchool(slug: string) {
+  return schools.find((school) => school.slug === slug);
+}

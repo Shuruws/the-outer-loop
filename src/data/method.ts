@@ -1,0 +1,58 @@
+export const method = {
+  title: "How this dossier was built",
+  updated: "August 2026",
+  criteria: [
+    {
+      title: "They publish the how, not the hype",
+      body: "A title at OpenAI is not enough. We wanted people who have written, talked, or open-sourced the actual collaboration: skills, loops, specs, evals, git habits, failure modes.",
+    },
+    {
+      title: "AI labs, large tech, or hidden leverage",
+      body: "The brief was Lauren Tan-shaped: people close to AI products, or inside companies that ship at scale, plus the quieter engineers whose repos the labs quietly install.",
+    },
+    {
+      title: "Depth over follower count",
+      body: "Cat Wu, Thariq Shihipar, Dex Horthy, Jesse Vincent, Geoffrey Huntley, and Paul Gauthier outrank louder accounts because the artifact is better. Famous CEOs are included only when their personal workflow is a teachable tool.",
+    },
+    {
+      title: "Primary sources",
+      body: "LinkedIn and X for Lauren's pstack and factory posts. Essays and talks for everyone else. GitHub for skills and repos. We did not scrape private data. We did not trust secondary 'top 10 AI influencers' lists.",
+    },
+  ],
+  sources: [
+    "Lauren Tan — LinkedIn (pstack, cloud agents, Cursor 3), X @poteto, cursor/plugins pstack",
+    "Flavio Copes — A deep dive into pstack (architecture notes)",
+    "Boris Cherny — Pragmatic Engineer interview; workflow thread via secondary reports with original quotes",
+    "Cat Wu & Thariq Shihipar — Simon Willison fireside notes, AI Engineer World's Fair",
+    "Dex Horthy — humanlayer/12-factor-agents and HumanLayer blog",
+    "Geoffrey Huntley — Ralph writeups; cursed language coverage via Simon Willison",
+    "Jesse Vincent — obra/superpowers README; obra.dev",
+    "Harper Reed — harper.blog, Feb 16 2025",
+    "Paul Gauthier — Aider docs and public comments",
+    "Thorsten Ball — Amp interviews; interpreter books; Changelog",
+    "Steve Yegge — Beads, Gas Town README, Medium",
+    "Simon Willison — Agentic Engineering Patterns; llm; Cat/Thariq notes",
+    "Armin Ronacher — The Coming Loop; AI Engineer talk with Cristina Poncela",
+    "Sean Grove — The New Code (AI Engineer 2025)",
+    "Addy Osmani — 2026 LLM workflow post",
+    "Tobi Lütke — tobi/try",
+    "Guillermo Rauch — public X workflow re: research folders",
+    "Hamel Husain — hamel.dev, evals-skills, claude-review-loop",
+    "Lee Robinson — Recursive Model Improvement, AI Engineer 2026",
+    "Andrej Karpathy — vibe coding coinage",
+  ],
+  watchlist: [
+    "Cristina Poncela (Earendil) — co-presents the friction argument with Armin; less written so far",
+    "Sualeh Asif, Aman Sanger, Michael Truell — Cursor founders; public on product, thinner on personal collab craft",
+    "Dax Raad / OpenCode — terminal agent from the SST lineage",
+    "Chip Huyen — ML systems teaching; adjacent, not yet a coding-agent craft file",
+    "Jeremy Howard (fast.ai) — still the best 'learn the model' teacher; less current on agent harnesses",
+    "Shreya Shankar — evals co-author with Hamel",
+    "Factory, Cognition, Windsurf engineers who start publishing personal playbooks rather than product blogs",
+  ],
+  limits: [
+    "X and LinkedIn rate-limit full history. Quotes are taken from public posts, talks, and repos we could retrieve.",
+    "PR-count claims (1,000/month, 259/30 days, 65% of PRs) are self-reported or internally claimed. Treat them as design constraints the authors optimized for, not as your KPI.",
+    "This is a living dossier. The instruction was to keep iterating. New gems should be added when they publish a method, not when they trend.",
+  ],
+};
