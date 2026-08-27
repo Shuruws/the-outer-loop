@@ -33,6 +33,8 @@ export const schools: School[] = [
       "kyle-mistele",
       "graham-neubig",
       "ryan-cooke",
+      "alistair-gray",
+      "nick-nisi",
     ],
   },
   {
@@ -60,6 +62,7 @@ export const schools: School[] = [
       "saoud-rizwan",
       "beyang-liu",
       "quinn-slack",
+      "steve-kaliski",
     ],
   },
   {
@@ -88,6 +91,8 @@ export const schools: School[] = [
       "claire-vo",
       "luke-alvoeiro",
       "yana-welinder",
+      "raymond-weitekamp",
+      "nick-nisi",
     ],
   },
   {
@@ -128,6 +133,9 @@ export const schools: School[] = [
       "lewis-metcalf",
       "graham-neubig",
       "kilian-lieret",
+      "raymond-weitekamp",
+      "alistair-gray",
+      "nick-nisi",
     ],
   },
   {
@@ -174,6 +182,10 @@ export const schools: School[] = [
       "graham-neubig",
       "kilian-lieret",
       "ryan-cooke",
+      "raymond-weitekamp",
+      "alistair-gray",
+      "steve-kaliski",
+      "nick-nisi",
     ],
   },
   {
@@ -215,6 +227,9 @@ export const schools: School[] = [
       "kyle-mistele",
       "kilian-lieret",
       "ryan-cooke",
+      "alistair-gray",
+      "steve-kaliski",
+      "nick-nisi",
     ],
   },
 ];

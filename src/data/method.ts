@@ -76,6 +76,10 @@ export const method = {
     "Graham Neubig — OpenHands daily-workflow skill; iterate watchdog; meta-harness",
     "Kilian Lieret — CodeClash goals-not-tickets; ProgramBench; distinct from John Yang's ACI",
     "Ryan Cooke — Horizon; a sandbox is not a factory; webhook orchestrator",
+    "Raymond Weitekamp — Recursive Coding Agents; openprose/prose; ypi",
+    "Alistair Gray — Minions parts 1–2, stripe.dev",
+    "Steve Kaliski — Lenny's Minions; Building autonomous coding agents at Stripe",
+    "Nick Nisi — Case Statement; Ideation; workos/aie-ai-native-workshop",
   ],
   watchlist: [
     "Jason Quense / Rahul Sengottuvelu — Ramp Inspect cofounders with Zach; still thinner solo writing than Zach's dump",
@@ -85,7 +89,7 @@ export const method = {
     "Sualeh Asif, Aman Sanger, Michael Truell, Arvid — Cursor founders; public on product, thinner on personal collab craft",
     "Amjad Masad — Replit Agent 4 is product architecture, not a personal harness dump",
     "Hugo Bowne-Anderson — How to Build a Coding Agent workshop with Nicolay; more host than harness author",
-    "Raymond Weitekamp — Recursive Coding Agents / OpenProse; RLM thesis, verify a stealable personal workflow",
+    "Zack Proser — AIE workshop with Nick; possible next if the personal craft is distinct from Case/Ideation",
     "Garrett Galow — WorkOS Studio harness for non-engineers; adjacent, less IC coding collab",
   ],
   limits: [

@@ -10,6 +10,7 @@ import { issue07Engineers } from "./issue07";
 import { issue08Engineers } from "./issue08";
 import { issue09Engineers } from "./issue09";
 import { issue10Engineers } from "./issue10";
+import { issue11Engineers } from "./issue11";
 import { labEngineers } from "./labs";
 
 export const engineers: Engineer[] = [
@@ -25,6 +26,7 @@ export const engineers: Engineer[] = [
   ...issue08Engineers,
   ...issue09Engineers,
   ...issue10Engineers,
+  ...issue11Engineers,
 ];
 
 export function getEngineer(slug: string) {
