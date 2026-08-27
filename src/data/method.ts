@@ -105,6 +105,9 @@ export const method = {
     "Ty Dunn — 283 Net Lines and a Passport; four worktrees; 27 checks; net lines as the score",
     "Maksim Danilchenko — dynamic workflow scripts; dual-reviewer pipeline; adversarial pass 23→9 findings",
     "Alex Dunlop — CLAUDE.md vs AGENTS.md loader table; Alexanderdunlop/anvil-skills distil-to-file",
+    "Nick Liu — Hooks are guarantees; model-allocation subagents; ClaudeDeck permission-round-trip",
+    "Christopher Penkin — Herding Claudes (worktrees, herdr, hunk); skill-lock.json across machines",
+    "Christoph Dalski — codecentric Blueprints; Lead must not code; chdalski/claude_orchestration and rlsp",
   ],
   watchlist: [
     "Jason Quense / Rahul Sengottuvelu — Ramp Inspect cofounders with Zach; still thinner solo writing than Zach's dump",
@@ -135,6 +138,8 @@ export const method = {
     "Nate Sesti — Continue cofounder; joined Cursor; thinner personal collab dump than Ty's 283-net-lines day",
     "Chad Metcalf — Continue CEO post on intervention rates; mostly restates Chip Huyen's Sniffly numbers",
     "Ben Ryan — Claude Code mega-guide; compilation more than a personal method dump",
+    "Chudi Nnorukam — AVR/SEO 84% claim; AI-visibility writing, not a coding-collab harness dump",
+    "Dan Shapiro — five levels of AI coding; framework, not a personal Blueprint or harness dump (Dalski cites it; we took Dalski)",
   ],
   limits: [
     "X and LinkedIn rate-limit full history. Quotes are taken from public posts, talks, and repos we could retrieve.",
