@@ -63,9 +63,12 @@ export const method = {
     "Saoud Rizwan — Cline Plan/Act; Latent Space",
     "Lance Martin — reduce/offload/isolate; LangGraph then Claude Platform",
     "Claire Vo — How I AI agent loops; skill validation against main",
+    "Ryan Carson — 40 PRs/day; Land PR video gate; Watchdog; $20k Devin month",
+    "Cole Murray — OpenInspect; worst-engineer decay; Latent Space with Walden",
+    "Zach Bruggeman — Ramp Inspect; Modal snapshots; prod toolchain in the sandbox",
   ],
   watchlist: [
-    "Cole Murray — OpenInspect; named the 'worst engineer' decay mode with Walden",
+    "Jason Quense / Rahul Sengottuvelu — Ramp Inspect cofounders with Zach; thinner solo writing",
     "Nik Pash — Cline cofounder on the Plan/Act episode",
     "Dan Shipper — co-authored compound engineering; more editor than personal harness dump",
     "Luke Alvoeiro — Factory AI Engineer talk on Missions; pair with Theo",
@@ -73,7 +76,7 @@ export const method = {
     "Kilian Lieret / Carlos Jimenez — SWE-bench maintainers; eval craft adjacent to John Yang",
     "Sualeh Asif, Aman Sanger, Michael Truell, Arvid — Cursor founders; public on product, thinner on personal collab craft",
     "Amjad Masad — Replit Agent 4 is product architecture, not a personal harness dump",
-    "Ryan Carson — 40 PRs/day with Devin and Codex; How I AI guest, verify a primary method post",
+    "Yana Welinder — Codex as technical co-founder; How I AI guest, verify a method post",
   ],
   limits: [
     "X and LinkedIn rate-limit full history. Quotes are taken from public posts, talks, and repos we could retrieve.",

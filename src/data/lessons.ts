@@ -123,6 +123,7 @@ export const crossLessons: CrossLesson[] = [
       "kieran-klaassen",
       "zach-davis",
       "claire-vo",
+      "ryan-carson",
     ],
   },
   {
@@ -144,6 +145,7 @@ export const crossLessons: CrossLesson[] = [
       "eugene-yan",
       "john-yang",
       "walden-yan",
+      "cole-murray",
     ],
   },
 ];

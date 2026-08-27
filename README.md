@@ -8,12 +8,12 @@ This repo is not an influencer list. It is a research file: super bios, titles, 
 
 ## Who is in the dossier
 
-Forty-three people across AI labs, large tech, and quieter GitHub corners:
+Forty-six people across AI labs, large tech, and quieter GitHub corners:
 
 - **Archetype:** Lauren Tan
 - **Labs:** Boris Cherny, Cat Wu, Thariq Shihipar (Anthropic / Claude Code); Lee Robinson (Cursor / SpaceXAI); Sean Grove (OpenAI Model Spec / Linzumi); Andrej Karpathy; Scott Wu (Cognition / Devin); Zach Lloyd (Warp); Xingyao Wang (OpenHands); Jason Liu (OpenAI Codex); Eno Reyes (Factory); Eugene Yan (Anthropic); John Yang (SWE-agent / Stanford); Walden Yan (Cognition); Saoud Rizwan (Cline); Lance Martin (Anthropic / LangGraph)
 - **Large tech lineage:** Addy Osmani (Google), Tobi Lütke (Shopify), Guillermo Rauch (Vercel), Daniel Meppiel (Microsoft), Chip Huyen (NVIDIA / Netflix / Stanford)
-- **Hidden gems:** Dex Horthy, Geoffrey Huntley, Jesse Vincent, Harper Reed, Paul Gauthier, Thorsten Ball, Steve Yegge, Simon Willison, Armin Ronacher, Hamel Husain, Mitchell Hashimoto, Mario Zechner, Dax Raad, Shreya Shankar, Cristina Poncela Cubeiro, Jeremy Howard, Peter Steinberger, Kieran Klaassen, Theo Luan, Zach Davis, Claire Vo
+- **Hidden gems:** Dex Horthy, Geoffrey Huntley, Jesse Vincent, Harper Reed, Paul Gauthier, Thorsten Ball, Steve Yegge, Simon Willison, Armin Ronacher, Hamel Husain, Mitchell Hashimoto, Mario Zechner, Dax Raad, Shreya Shankar, Cristina Poncela Cubeiro, Jeremy Howard, Peter Steinberger, Kieran Klaassen, Theo Luan, Zach Davis, Claire Vo, Ryan Carson, Cole Murray, Zach Bruggeman
 
 Read them in the app. The `/method` page lists primary sources, watchlist names for the next pass, and what we will not pretend (self-reported PR counts, incomplete X history).
 
