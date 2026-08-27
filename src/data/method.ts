@@ -93,6 +93,9 @@ export const method = {
     "Justin Young — Effective harnesses for long-running agents; initializer + coding agent; feature_list.json",
     "Prithvi Rajasekaran — Harness design for long-running apps; generator/evaluator; taste as rubric",
     "Vaibhav Gupta — Fighting slop with slop; architecture.md; transcript evals; BAML",
+    "Siddharth Mishra-Sharma — Long-running Claude for scientific computing; CLAUDE.md + CHANGELOG.md; CLASS oracle; tmux/SLURM",
+    "Malte Ubl — bash + SQL file-system agents; delete 80% of tools; bash-tool",
+    "John Lindquist — How I AI; claude-hooks; mdflow; Stop-hook verify loop",
   ],
   watchlist: [
     "Jason Quense / Rahul Sengottuvelu — Ramp Inspect cofounders with Zach; still thinner solo writing than Zach's dump",
@@ -111,6 +114,9 @@ export const method = {
     "Sid Bidasaria — Claude Code founding engineer; co-author with Thariq on dynamic workflows; talk exists, still thinner solo dump than Boris/Cat/Thariq",
     "David Hershey / Pedram Navid — acknowledged on Justin's harness post; no solo method dump retrieved",
     "Josef Bacik / Edwin Chen — acknowledged on Carlini's compiler post; not a personal collab dump",
+    "Andrew Qu — co-author of bash-tool and Vercel plugin with Malte / Lindquist; thinner solo dump",
+    "Melkey Moksyakov — co-author of Vercel coding-agent plugin; product changelog not a personal method",
+    "Eric Kauderer-Abrams — peer review on Siddharth's science post; not a collab dump",
   ],
   limits: [
     "X and LinkedIn rate-limit full history. Quotes are taken from public posts, talks, and repos we could retrieve.",

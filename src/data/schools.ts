@@ -42,6 +42,7 @@ export const schools: School[] = [
       "aitor-alonso",
       "prithvi-rajasekaran",
       "vaibhav-gupta",
+      "john-lindquist",
     ],
   },
   {
@@ -157,6 +158,8 @@ export const schools: School[] = [
       "allen-chen",
       "nicholas-carlini",
       "justin-young",
+      "siddharth-mishra-sharma",
+      "malte-ubl",
     ],
   },
   {
@@ -214,6 +217,9 @@ export const schools: School[] = [
       "nicholas-carlini",
       "justin-young",
       "prithvi-rajasekaran",
+      "siddharth-mishra-sharma",
+      "malte-ubl",
+      "john-lindquist",
     ],
   },
   {
@@ -269,6 +275,9 @@ export const schools: School[] = [
       "justin-young",
       "prithvi-rajasekaran",
       "vaibhav-gupta",
+      "siddharth-mishra-sharma",
+      "malte-ubl",
+      "john-lindquist",
     ],
   },
 ];
