@@ -8,12 +8,12 @@ This repo is not an influencer list. It is a research file: super bios, titles, 
 
 ## Who is in the dossier
 
-Sixty-six people across AI labs, large tech, and quieter GitHub corners:
+Sixty-nine people across AI labs, large tech, and quieter GitHub corners:
 
 - **Archetype:** Lauren Tan
-- **Labs:** Boris Cherny, Cat Wu, Thariq Shihipar (Anthropic / Claude Code); Erik Schluntz (Anthropic coding agents); Lee Robinson (Cursor / SpaceXAI); Sean Grove (OpenAI Model Spec / Linzumi); Andrej Karpathy; Scott Wu (Cognition / Devin); Zach Lloyd (Warp); Xingyao Wang, Graham Neubig (OpenHands); Jason Liu (OpenAI Codex); Eno Reyes (Factory); Eugene Yan (Anthropic); John Yang (SWE-agent / Stanford); Kilian Lieret (Meta / SWE-agent); Walden Yan (Cognition); Saoud Rizwan (Cline); Lance Martin (Anthropic / LangGraph); Beyang Liu, Quinn Slack, Nicolay Gerold, Lewis Metcalf (Amp)
-- **Large tech lineage:** Addy Osmani (Google), Tobi Lütke (Shopify), Guillermo Rauch (Vercel), Daniel Meppiel (Microsoft), Chip Huyen (NVIDIA / Netflix / Stanford), Alistair Gray and Steve Kaliski (Stripe)
-- **Hidden gems:** Dex Horthy, Kyle Mistele, Geoffrey Huntley, Jesse Vincent, Harper Reed, Paul Gauthier, Thorsten Ball, Steve Yegge, Simon Willison, Armin Ronacher, Hamel Husain, Mitchell Hashimoto, Mario Zechner, Dax Raad, Shreya Shankar, Cristina Poncela Cubeiro, Jeremy Howard, Peter Steinberger, Kieran Klaassen, Theo Luan, Zach Davis, Claire Vo, Ryan Carson, Cole Murray, Zach Bruggeman, Luke Alvoeiro, Yana Welinder, Ryan Cooke, Raymond Weitekamp, Nick Nisi, Zack Proser, Matt Pocock, Solomon Hykes, Angie Jones, Kent C. Dodds
+- **Labs:** Boris Cherny, Cat Wu, Thariq Shihipar (Anthropic / Claude Code); Erik Schluntz (Anthropic coding agents); Lee Robinson (Cursor / SpaceXAI); Sean Grove (OpenAI Model Spec / Linzumi); Andrej Karpathy; Scott Wu (Cognition / Devin); Zach Lloyd (Warp); Xingyao Wang, Graham Neubig (OpenHands); Jason Liu (OpenAI Codex); Eno Reyes (Factory); Eugene Yan (Anthropic); John Yang (SWE-agent / Stanford); Kilian Lieret (Meta / SWE-agent); Walden Yan (Cognition); Saoud Rizwan (Cline); Lance Martin (Anthropic / LangGraph); Beyang Liu, Quinn Slack, Nicolay Gerold, Lewis Metcalf (Amp); Allen Chen (Sierra)
+- **Large tech lineage:** Addy Osmani (Google), Tobi Lütke and Javier Moreno (Shopify), Guillermo Rauch (Vercel), Daniel Meppiel (Microsoft), Chip Huyen (NVIDIA / Netflix / Stanford), Alistair Gray and Steve Kaliski (Stripe)
+- **Hidden gems:** Dex Horthy, Kyle Mistele, Geoffrey Huntley, Jesse Vincent, Harper Reed, Paul Gauthier, Thorsten Ball, Steve Yegge, Simon Willison, Armin Ronacher, Hamel Husain, Mitchell Hashimoto, Mario Zechner, Dax Raad, Shreya Shankar, Cristina Poncela Cubeiro, Jeremy Howard, Peter Steinberger, Kieran Klaassen, Theo Luan, Zach Davis, Claire Vo, Ryan Carson, Cole Murray, Zach Bruggeman, Luke Alvoeiro, Yana Welinder, Ryan Cooke, Raymond Weitekamp, Nick Nisi, Zack Proser, Matt Pocock, Solomon Hykes, Angie Jones, Kent C. Dodds, Aitor Alonso
 
 Read them in the app. The `/method` page lists primary sources, watchlist names for the next pass, and what we will not pretend (self-reported PR counts, incomplete X history).
 

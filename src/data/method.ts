@@ -86,6 +86,9 @@ export const method = {
     "Solomon Hykes — Containing Agent Chaos; dagger/container-use",
     "Angie Jones — Goose RPI tutorial; HumanLayer pattern packaged as recipes",
     "Kent C. Dodds — How I Build Web Applications in 2026; architecture-as-prompt",
+    "Javier Moreno — Under the River (Shopify); Aquifer session/harness/sandbox; profiles not platforms",
+    "Allen Chen — Pinecone with Tess Rosania; wrap Codex/Claude Code; laptop agents do not compound",
+    "Aitor Alonso — four-layer stack: CLAUDE.md, Superpowers, team skills, MCPs",
   ],
   watchlist: [
     "Jason Quense / Rahul Sengottuvelu — Ramp Inspect cofounders with Zach; still thinner solo writing than Zach's dump",
@@ -98,6 +101,9 @@ export const method = {
     "Garrett Galow — WorkOS Studio harness for non-engineers; adjacent, less IC coding collab",
     "Barry Zhang — co-author of Building Effective Agents; thinner personal coding-collab dump than Erik",
     "Mic Neale — Goose at Block; more product/ACP than a personal collab dump distinct from Luke and Angie",
+    "Burke Libbey — co-author of Under the River with Javier; thinner solo dump than Javier's substrate post",
+    "Tess Rosania — co-author of Pinecone with Allen; thinner solo coding-collab dump",
+    "Gabe Cemaj — co-author of Scaling Managed Agents with Lance; Lance already covers the method",
   ],
   limits: [
     "X and LinkedIn rate-limit full history. Quotes are taken from public posts, talks, and repos we could retrieve.",
