@@ -80,6 +80,9 @@ export const method = {
     "Alistair Gray — Minions parts 1–2, stripe.dev",
     "Steve Kaliski — Lenny's Minions; Building autonomous coding agents at Stripe",
     "Nick Nisi — Case Statement; Ideation; workos/aie-ai-native-workshop",
+    "Zack Proser — Untethered Productivity; coding-agent-eval-harness; Handwave",
+    "Matt Pocock — mattpocock/skills; 5 Agent Skills; How To Make Codebases AI Agents Love",
+    "Erik Schluntz — Vibe coding in prod; Building effective agents (with Barry Zhang)",
   ],
   watchlist: [
     "Jason Quense / Rahul Sengottuvelu — Ramp Inspect cofounders with Zach; still thinner solo writing than Zach's dump",
@@ -89,8 +92,8 @@ export const method = {
     "Sualeh Asif, Aman Sanger, Michael Truell, Arvid — Cursor founders; public on product, thinner on personal collab craft",
     "Amjad Masad — Replit Agent 4 is product architecture, not a personal harness dump",
     "Hugo Bowne-Anderson — How to Build a Coding Agent workshop with Nicolay; more host than harness author",
-    "Zack Proser — AIE workshop with Nick; possible next if the personal craft is distinct from Case/Ideation",
     "Garrett Galow — WorkOS Studio harness for non-engineers; adjacent, less IC coding collab",
+    "Barry Zhang — co-author of Building Effective Agents; thinner personal coding-collab dump than Erik",
   ],
   limits: [
     "X and LinkedIn rate-limit full history. Quotes are taken from public posts, talks, and repos we could retrieve.",

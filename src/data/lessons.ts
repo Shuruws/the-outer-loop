@@ -27,6 +27,8 @@ export const crossLessons: CrossLesson[] = [
       "ryan-cooke",
       "nick-nisi",
       "raymond-weitekamp",
+      "zack-proser",
+      "matt-pocock",
     ],
   },
   {
@@ -52,6 +54,8 @@ export const crossLessons: CrossLesson[] = [
       "alistair-gray",
       "steve-kaliski",
       "nick-nisi",
+      "zack-proser",
+      "erik-schluntz",
     ],
   },
   {
@@ -81,6 +85,8 @@ export const crossLessons: CrossLesson[] = [
       "kilian-lieret",
       "raymond-weitekamp",
       "nick-nisi",
+      "matt-pocock",
+      "erik-schluntz",
     ],
   },
   {
@@ -110,6 +116,8 @@ export const crossLessons: CrossLesson[] = [
       "kyle-mistele",
       "raymond-weitekamp",
       "nick-nisi",
+      "zack-proser",
+      "matt-pocock",
     ],
   },
   {
@@ -161,6 +169,8 @@ export const crossLessons: CrossLesson[] = [
       "steve-kaliski",
       "alistair-gray",
       "nick-nisi",
+      "zack-proser",
+      "erik-schluntz",
     ],
   },
   {
@@ -186,6 +196,8 @@ export const crossLessons: CrossLesson[] = [
       "nicolay-gerold",
       "kilian-lieret",
       "kyle-mistele",
+      "matt-pocock",
+      "erik-schluntz",
     ],
   },
 ];
