@@ -1,12 +1,14 @@
 import type { Engineer } from "./types";
 import { bigTechEngineers } from "./bigtech";
 import { gemEngineers } from "./gems";
+import { issue02Engineers } from "./issue02";
 import { labEngineers } from "./labs";
 
 export const engineers: Engineer[] = [
   ...labEngineers,
   ...gemEngineers,
   ...bigTechEngineers,
+  ...issue02Engineers,
 ];
 
 export function getEngineer(slug: string) {

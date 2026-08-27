@@ -17,7 +17,7 @@ export default function EngineersPage() {
       </p>
       <h1 className="mt-2 font-heading text-4xl sm:text-5xl">The engineers</h1>
       <p className="mt-4 max-w-2xl text-muted-foreground">
-        Twenty people. The filter is not fame. It is whether they left a method
+        Twenty-six people. The filter is not fame. It is whether they left a method
         you can steal: a skill pack, a loop, a spec ritual, an eval, a repo.
       </p>
       <div className="mt-10">

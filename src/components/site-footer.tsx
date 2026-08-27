@@ -1,5 +1,7 @@
 import Link from "next/link";
 
+import { engineers } from "@/data/engineers";
+
 export function SiteFooter() {
   return (
     <footer className="mt-auto border-t border-border/80">
@@ -12,7 +14,7 @@ export function SiteFooter() {
           .
         </p>
         <p className="font-mono text-xs uppercase tracking-widest">
-          Aug 2026 · 20 engineers
+          Aug 2026 · {engineers.length} engineers
         </p>
       </div>
     </footer>

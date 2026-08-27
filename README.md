@@ -6,14 +6,14 @@ The archetype is [Lauren Tan](https://x.com/poteto): Principal Engineer on Grok 
 
 This repo is not an influencer list. It is a research file: super bios, titles, core lessons on AI collab and reasoning, and the skills/repos they shipped.
 
-## Who is in issue 01
+## Who is in the dossier
 
-Twenty people across AI labs, large tech, and quieter GitHub corners:
+Twenty-six people across AI labs, large tech, and quieter GitHub corners:
 
 - **Archetype:** Lauren Tan
-- **Labs:** Boris Cherny, Cat Wu, Thariq Shihipar (Anthropic / Claude Code); Lee Robinson (Cursor / SpaceXAI); Sean Grove (OpenAI Model Spec / Linzumi); Andrej Karpathy
-- **Large tech:** Addy Osmani (Google), Tobi Lütke (Shopify), Guillermo Rauch (Vercel)
-- **Hidden gems:** Dex Horthy, Geoffrey Huntley, Jesse Vincent, Harper Reed, Paul Gauthier, Thorsten Ball, Steve Yegge, Simon Willison, Armin Ronacher, Hamel Husain
+- **Labs:** Boris Cherny, Cat Wu, Thariq Shihipar (Anthropic / Claude Code); Lee Robinson (Cursor / SpaceXAI); Sean Grove (OpenAI Model Spec / Linzumi); Andrej Karpathy; Scott Wu (Cognition / Devin)
+- **Large tech lineage:** Addy Osmani (Google), Tobi Lütke (Shopify), Guillermo Rauch (Vercel), Daniel Meppiel (Microsoft)
+- **Hidden gems:** Dex Horthy, Geoffrey Huntley, Jesse Vincent, Harper Reed, Paul Gauthier, Thorsten Ball, Steve Yegge, Simon Willison, Armin Ronacher, Hamel Husain, Mitchell Hashimoto, Mario Zechner, Dax Raad, Shreya Shankar
 
 Read them in the app. The `/method` page lists primary sources, watchlist names for the next pass, and what we will not pretend (self-reported PR counts, incomplete X history).
 

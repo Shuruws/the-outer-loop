@@ -8,7 +8,7 @@ export const schools: School[] = [
       "Agents forget everything. The job is to turn your taste, failure modes, and review standards into skills the agent can reload every session.",
     body: [
       "Lauren Tan's pstack is the clearest public artifact of this school. The agent is treated as a capable new hire in a permanent state of amnesia. You do not hope it remembers last Tuesday. You write playbooks, principles, and verification gates that reconstruct your engineering culture on every run.",
-      "Jesse Vincent's Superpowers and Hamel Husain's evals-skills are the same move from different rooms: extract the process that already works for humans, then make the agent follow it without being asked. The skill file is not a prompt trick. It is institutional memory.",
+      "Jesse Vincent's Superpowers and Hamel Husain's evals-skills are the same move from different rooms: extract the process that already works for humans, then make the agent follow it without being asked. Mitchell Hashimoto calls it harness engineering: every repeated failure becomes an AGENTS.md line or a script. Daniel Meppiel's Genesis treats that markdown as code that needs architecture. The skill file is not a prompt trick. It is institutional memory.",
     ],
     contrapoint:
       "Over-encoded playbooks can become ceremony. If the skill is longer than the task, the agent will follow the ritual and miss the work.",
@@ -18,6 +18,9 @@ export const schools: School[] = [
       "hamel-husain",
       "addy-osmani",
       "harper-reed",
+      "mitchell-hashimoto",
+      "daniel-meppiel",
+      "shreya-shankar",
     ],
   },
   {
@@ -37,6 +40,7 @@ export const schools: School[] = [
       "thariq-shihipar",
       "harper-reed",
       "addy-osmani",
+      "scott-wu",
     ],
   },
   {
@@ -56,6 +60,7 @@ export const schools: School[] = [
       "addy-osmani",
       "jesse-vincent",
       "tobi-lutke",
+      "daniel-meppiel",
     ],
   },
   {
@@ -76,6 +81,9 @@ export const schools: School[] = [
       "guillermo-rauch",
       "tobi-lutke",
       "steve-yegge",
+      "mario-zechner",
+      "dax-raad",
+      "mitchell-hashimoto",
     ],
   },
   {
@@ -96,6 +104,8 @@ export const schools: School[] = [
       "boris-cherny",
       "armin-ronacher",
       "thorsten-ball",
+      "mitchell-hashimoto",
+      "scott-wu",
     ],
   },
   {
@@ -116,6 +126,8 @@ export const schools: School[] = [
       "thorsten-ball",
       "simon-willison",
       "addy-osmani",
+      "mitchell-hashimoto",
+      "shreya-shankar",
     ],
   },
 ];

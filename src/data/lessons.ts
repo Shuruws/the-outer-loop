@@ -13,6 +13,7 @@ export const crossLessons: CrossLesson[] = [
       "steve-yegge",
       "geoffrey-huntley",
       "simon-willison",
+      "mitchell-hashimoto",
     ],
   },
   {
@@ -21,7 +22,7 @@ export const crossLessons: CrossLesson[] = [
     summary:
       "Breadth without a verification gate multiplies slop. Make one agent own a problem end to end, then scale.",
     body: "Lauren's factory only works because pstack makes a single agent rigorous first. Boris one-shots after the plan is good, not before. Dex keeps agents small and focused. The people shipping 200–1,000 PRs a month are not running twenty uncorrelated chat windows. They have a trust gradient: evidence, then autonomy, then parallelism.",
-    heldBy: ["lauren-tan", "boris-cherny", "dex-horthy", "jesse-vincent"],
+    heldBy: ["lauren-tan", "boris-cherny", "dex-horthy", "jesse-vincent", "mitchell-hashimoto"],
   },
   {
     slug: "intent-is-the-bottleneck",
@@ -35,6 +36,7 @@ export const crossLessons: CrossLesson[] = [
       "addy-osmani",
       "jesse-vincent",
       "hamel-husain",
+      "daniel-meppiel",
     ],
   },
   {
@@ -50,6 +52,8 @@ export const crossLessons: CrossLesson[] = [
       "guillermo-rauch",
       "simon-willison",
       "dex-horthy",
+      "mario-zechner",
+      "dax-raad",
     ],
   },
   {
@@ -72,6 +76,8 @@ export const crossLessons: CrossLesson[] = [
       "thariq-shihipar",
       "lee-robinson",
       "armin-ronacher",
+      "mitchell-hashimoto",
+      "scott-wu",
     ],
   },
   {
@@ -79,13 +85,14 @@ export const crossLessons: CrossLesson[] = [
     title: "The goal is less code, not more",
     summary:
       "Throughput without quality is a team of slop artists. Maximum impact with the least code is the actual objective function.",
-    body: "pstack is explicit about this. Armin sees unsupervised loops add fallbacks instead of invariants. Paul Gauthier refuses to turn Aider into an autonomous agent because exploration without a human is expensive and messy. Karpathy named vibe coding so we could distinguish it from production. The gems are not the people generating the most tokens. They are the people deleting them.",
+    body: "pstack is explicit about this. Armin sees unsupervised loops add fallbacks instead of invariants. Paul Gauthier refuses to turn Aider into an autonomous agent because exploration without a human is expensive and messy. Karpathy named vibe coding so we could distinguish it from production. Shreya Shankar's evals work is the quality system those factories imply. The gems are not the people generating the most tokens. They are the people deleting them.",
     heldBy: [
       "lauren-tan",
       "armin-ronacher",
       "paul-gauthier",
       "andrej-karpathy",
       "thorsten-ball",
+      "shreya-shankar",
     ],
   },
 ];
