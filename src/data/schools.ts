@@ -45,6 +45,8 @@ export const schools: School[] = [
       "john-lindquist",
       "cj-hess",
       "brian-scanlan",
+      "ty-dunn",
+      "alex-dunlop",
     ],
   },
   {
@@ -77,6 +79,7 @@ export const schools: School[] = [
       "angie-jones",
       "kent-c-dodds",
       "alex-finn",
+      "ty-dunn",
     ],
   },
   {
@@ -168,6 +171,8 @@ export const schools: School[] = [
       "siddharth-mishra-sharma",
       "malte-ubl",
       "david-cramer",
+      "maksim-danilchenko",
+      "alex-dunlop",
     ],
   },
   {
@@ -233,6 +238,7 @@ export const schools: School[] = [
       "brian-scanlan",
       "eddie-kim",
       "alex-finn",
+      "maksim-danilchenko",
     ],
   },
   {
@@ -297,6 +303,9 @@ export const schools: School[] = [
       "brian-scanlan",
       "eddie-kim",
       "alex-finn",
+      "ty-dunn",
+      "maksim-danilchenko",
+      "alex-dunlop",
     ],
   },
 ];

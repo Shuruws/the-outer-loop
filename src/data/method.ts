@@ -102,6 +102,9 @@ export const method = {
     "Brian Scanlan — How we use Claude Code today at Intercom; How I AI; Create PR hook; self-editing flaky-spec skill; SessionEnd telemetry",
     "Eddie Kim — How I AI / Lenny's; trash-can PRs; eval-first Claude; perma-Zoom; Workers + AI SDK",
     "Alex Finn — How I AI software factory; build/review loops; SHA-bound rocket emoji; local model as sensor",
+    "Ty Dunn — 283 Net Lines and a Passport; four worktrees; 27 checks; net lines as the score",
+    "Maksim Danilchenko — dynamic workflow scripts; dual-reviewer pipeline; adversarial pass 23→9 findings",
+    "Alex Dunlop — CLAUDE.md vs AGENTS.md loader table; Alexanderdunlop/anvil-skills distil-to-file",
   ],
   watchlist: [
     "Jason Quense / Rahul Sengottuvelu — Ramp Inspect cofounders with Zach; still thinner solo writing than Zach's dump",
@@ -129,6 +132,9 @@ export const method = {
     "Grace Clarke — How I AI Claude for normal people / business automation; not IC coding-collab craft",
     "Nick Baumann — OpenAI ChatGPT voice/browser workflows; not a coding-agent harness dump",
     "Katie Cavalcant — Gusto designer on Eddie's five-person team; no solo method dump retrieved",
+    "Nate Sesti — Continue cofounder; joined Cursor; thinner personal collab dump than Ty's 283-net-lines day",
+    "Chad Metcalf — Continue CEO post on intervention rates; mostly restates Chip Huyen's Sniffly numbers",
+    "Ben Ryan — Claude Code mega-guide; compilation more than a personal method dump",
   ],
   limits: [
     "X and LinkedIn rate-limit full history. Quotes are taken from public posts, talks, and repos we could retrieve.",
