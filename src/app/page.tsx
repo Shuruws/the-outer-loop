@@ -17,14 +17,14 @@ export default function Home() {
       <section className="border-b border-border/80">
         <div className="mx-auto max-w-6xl px-4 py-16 sm:px-6 sm:py-24">
           <p className="mb-4 font-mono text-xs uppercase tracking-[0.22em] text-primary">
-            Issue 08 · August 2026 · Living file
+            Issue 09 · August 2026 · Living file
           </p>
           <h1 className="max-w-4xl font-heading text-4xl leading-[1.1] tracking-tight sm:text-6xl">
             Engineers who encode judgment into agents.
           </h1>
           <p className="mt-6 max-w-2xl text-lg leading-relaxed text-muted-foreground">
             Start with Lauren Tan — SpaceXAI, Cursor, React Compiler, pstack —
-            then meet the people at Anthropic, OpenAI, Google, Microsoft, Shopify, Cognition, Factory, Warp, and in
+            then meet the people at Anthropic, OpenAI, Google, Microsoft, Shopify, Cognition, Factory, Warp, Amp, and in
             quieter GitHub corners who publish how they actually collaborate
             with coding agents. Not influencer lists. Craft.
           </p>

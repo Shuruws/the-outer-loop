@@ -28,6 +28,8 @@ export const schools: School[] = [
       "zach-davis",
       "claire-vo",
       "ryan-carson",
+      "nicolay-gerold",
+      "yana-welinder",
     ],
   },
   {
@@ -81,6 +83,8 @@ export const schools: School[] = [
       "zach-davis",
       "saoud-rizwan",
       "claire-vo",
+      "luke-alvoeiro",
+      "yana-welinder",
     ],
   },
   {
@@ -117,6 +121,8 @@ export const schools: School[] = [
       "cole-murray",
       "zach-bruggeman",
       "beyang-liu",
+      "nicolay-gerold",
+      "lewis-metcalf",
     ],
   },
   {
@@ -155,6 +161,10 @@ export const schools: School[] = [
       "zach-bruggeman",
       "beyang-liu",
       "quinn-slack",
+      "nicolay-gerold",
+      "lewis-metcalf",
+      "luke-alvoeiro",
+      "yana-welinder",
     ],
   },
   {
@@ -191,6 +201,8 @@ export const schools: School[] = [
       "cole-murray",
       "zach-bruggeman",
       "quinn-slack",
+      "lewis-metcalf",
+      "luke-alvoeiro",
     ],
   },
 ];
