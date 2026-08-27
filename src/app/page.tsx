@@ -17,7 +17,7 @@ export default function Home() {
       <section className="border-b border-border/80">
         <div className="mx-auto max-w-6xl px-4 py-16 sm:px-6 sm:py-24">
           <p className="mb-4 font-mono text-xs uppercase tracking-[0.22em] text-primary">
-            Issue 12 · August 2026 · Living file
+            Issue 13 · August 2026 · Living file
           </p>
           <h1 className="max-w-4xl font-heading text-4xl leading-[1.1] tracking-tight sm:text-6xl">
             Engineers who encode judgment into agents.

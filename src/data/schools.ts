@@ -37,6 +37,7 @@ export const schools: School[] = [
       "nick-nisi",
       "zack-proser",
       "matt-pocock",
+      "angie-jones",
     ],
   },
   {
@@ -66,6 +67,8 @@ export const schools: School[] = [
       "quinn-slack",
       "steve-kaliski",
       "erik-schluntz",
+      "angie-jones",
+      "kent-c-dodds",
     ],
   },
   {
@@ -97,6 +100,7 @@ export const schools: School[] = [
       "raymond-weitekamp",
       "nick-nisi",
       "matt-pocock",
+      "angie-jones",
     ],
   },
   {
@@ -141,6 +145,8 @@ export const schools: School[] = [
       "alistair-gray",
       "nick-nisi",
       "erik-schluntz",
+      "solomon-hykes",
+      "kent-c-dodds",
     ],
   },
   {
@@ -192,6 +198,7 @@ export const schools: School[] = [
       "steve-kaliski",
       "nick-nisi",
       "zack-proser",
+      "solomon-hykes",
     ],
   },
   {
@@ -239,6 +246,8 @@ export const schools: School[] = [
       "zack-proser",
       "matt-pocock",
       "erik-schluntz",
+      "solomon-hykes",
+      "kent-c-dodds",
     ],
   },
 ];

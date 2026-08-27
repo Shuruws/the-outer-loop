@@ -83,6 +83,9 @@ export const method = {
     "Zack Proser — Untethered Productivity; coding-agent-eval-harness; Handwave",
     "Matt Pocock — mattpocock/skills; 5 Agent Skills; How To Make Codebases AI Agents Love",
     "Erik Schluntz — Vibe coding in prod; Building effective agents (with Barry Zhang)",
+    "Solomon Hykes — Containing Agent Chaos; dagger/container-use",
+    "Angie Jones — Goose RPI tutorial; HumanLayer pattern packaged as recipes",
+    "Kent C. Dodds — How I Build Web Applications in 2026; architecture-as-prompt",
   ],
   watchlist: [
     "Jason Quense / Rahul Sengottuvelu — Ramp Inspect cofounders with Zach; still thinner solo writing than Zach's dump",
@@ -94,6 +97,7 @@ export const method = {
     "Hugo Bowne-Anderson — How to Build a Coding Agent workshop with Nicolay; more host than harness author",
     "Garrett Galow — WorkOS Studio harness for non-engineers; adjacent, less IC coding collab",
     "Barry Zhang — co-author of Building Effective Agents; thinner personal coding-collab dump than Erik",
+    "Mic Neale — Goose at Block; more product/ACP than a personal collab dump distinct from Luke and Angie",
   ],
   limits: [
     "X and LinkedIn rate-limit full history. Quotes are taken from public posts, talks, and repos we could retrieve.",
