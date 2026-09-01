@@ -38,3 +38,21 @@ Next.js, TypeScript, Tailwind, shadcn/ui. Content lives in `src/data/` so a new 
 ## Iterate
 
 The brief was to keep going until asked to stop. Add a person when they publish a **method** (skill pack, loop, spec ritual, eval), not when they trend.
+
+## Initiative
+
+Came across Lauren Tan's talk in the GrokBot workshop and wondered why I had missed this kind of builder — engineers who share, publicly, how they actually collaborate with AI. So I asked Cursor to dig them out.
+
+This catalog is for **pure learning**, nothing malicious. Be kind — please use this catalog of resources respectfully. If someone has asked not to be indexed, take them out.
+
+## How this is built
+
+Built via a loop in Cursor:
+
+> Help me extract all AI engineers like Lauren Tan from SpaceX and Cursor, who share publicly about how they leverage AI coding. Look specifically for people who work closely with AI from AI companies, or within large tech companies. Look from Twitter, LinkedIn, and other engineer hubs and extract the top ones. Find the hidden gems. You will have absolute control and build any tools you need to extract data or control. As long as you don't destroy my computer and wipe out files. Do this process iteratively. Do not stop until I ask you. Introduce me to different engineers with super bio, titles, their core lessons/advices on AI collab and reasoning, resources/skills repo. Depth and insight is what I need. Find the real gem. GO.
+
+## Publish
+
+Mirrored to GitHub as a public archive. For instructions on publishing your own repository, see the full GitHub docs:
+
+**[Creating a new repository — https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)**
